@@ -20,8 +20,8 @@ Qt Creater 4.2.1
 未开始或者点击暂停后，程序不对鼠标点击作处理
 
 # 效果图
-https://github.com/413749123/Puzzle/raw/master/readmeImg/1.png
+![初始界面](https://github.com/413749123/Puzzle/raw/master/readmeImg/1.png)
 
-https://github.com/413749123/Puzzle/raw/master/readmeImg/2.png
+![NULL](https://github.com/413749123/Puzzle/raw/master/readmeImg/2.png)
 
-https://github.com/413749123/Puzzle/raw/master/readmeImg/3.png
+![NULL](https://github.com/413749123/Puzzle/raw/master/readmeImg/3.png)
