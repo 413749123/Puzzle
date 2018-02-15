@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resImage">
+        <file>image/2.jpg</file>
+        <file>image/3.jpg</file>
+    </qresource>
+</RCC>
